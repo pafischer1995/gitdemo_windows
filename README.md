@@ -1,6 +1,6 @@
 # gitdemo_windows
 
-## subheadingLog
+## Subheading
 
 our first open project
 
