@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+*.suo
+ConsoleApplication1/ConsoleApplication1.VC.db
+*.opendb
